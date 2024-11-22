@@ -1,12 +1,24 @@
 ## Hi there 👋
 ## My name is Giovanna Leão
 
-Here are some ideas to get you started:
-
 - 🔭 I'm looking for an opportunity to have my first internship;
 - 🌱 I’m currently learning html,css, javascript, c++ and python;
 - 👯 I’m looking to collaborate on web/mobile projects with back and front-end;
 - 🤔 I’m looking for help with solution development and learn new tecnologies;
+
+## 🌱 Learning:
+
+
+ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg" />
+ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" />
+ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
+ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
+ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg" />
+ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" />
+ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" />
+ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />
+          
+          
 
 - ## Reach me on:
 
