@@ -7,9 +7,8 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning html,css, javascript, c++ and python;
 - 👯 I’m looking to collaborate on web/mobile projects with back and front-end;
 - 🤔 I’m looking for help with solution development and learn new tecnologies;
-- 📫 How to reach me: giovannaleaogi@gmail.com
 
-- ## Contatos:
+- ## Reach me on:
 
 <div>
 <a href="https://www.instagram.com/gigi_l.q/" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
